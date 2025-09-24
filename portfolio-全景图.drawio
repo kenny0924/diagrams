@@ -21,7 +21,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-2" value="Indicator Pool" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="290" y="270" width="60" height="80" as="geometry" />
+          <mxGeometry x="290" y="260" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;curved=1;" parent="1" source="TKcdvpv9XamH0jbEUl0M-4" target="TKcdvpv9XamH0jbEUl0M-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -42,10 +42,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-4" value="Candle/Tick/Order Book" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="250" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-6" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="250" y="410" width="60" height="80" as="geometry" />
+          <mxGeometry x="250" y="400" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TKcdvpv9XamH0jbEUl0M-10" target="TKcdvpv9XamH0jbEUl0M-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,9 +75,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-15" value="Order" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="380" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="TKcdvpv9XamH0jbEUl0M-19" value="Monitor" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TKcdvpv9XamH0jbEUl0M-19" value="Monitor/Alert" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="260" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TKcdvpv9XamH0jbEUl0M-27" target="TKcdvpv9XamH0jbEUl0M-10" edge="1">
@@ -89,7 +89,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-27" value="Job" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="70" width="140" height="80" as="geometry" />
+          <mxGeometry x="390" y="50" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="TKcdvpv9XamH0jbEUl0M-30" target="TKcdvpv9XamH0jbEUl0M-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -100,7 +100,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TKcdvpv9XamH0jbEUl0M-30" value="Event Bus" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="70" width="140" height="80" as="geometry" />
+          <mxGeometry x="120" y="60" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
